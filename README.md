@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there , welcome to jugurtha profile 👋
+
+Hello I am a very good developer
 
 <!--
 **Jugurtha-Silem/Jugurtha-Silem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
