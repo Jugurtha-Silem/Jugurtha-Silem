@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **jugurtha.silem@gmail.com**
 
-- ⚡ Fun fact **I am very funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/jugurthasilem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jugurthasilem" height="30" width="40" /></a>
